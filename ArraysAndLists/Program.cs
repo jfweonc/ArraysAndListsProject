@@ -11,7 +11,7 @@ namespace ArraysAndLists
             //TODO:
 
             // Create an int Array and populate numbers 1-10
-            var numbers = new int[] {1,2,3,4,5,6,7,8,9,10};
+            var numbers = new int[] {1,2,3,4,5,6,7,8,9,10,11};
             Console.WriteLine(numbers);
             /* Create two Lists of type int.
              * Name one List "evens"
